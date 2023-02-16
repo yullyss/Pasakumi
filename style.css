@@ -67,8 +67,8 @@ div {
 
  #menu{
 width: 20%;
-height:800px;
-background-color:#005c80e1;
+height:1600px;
+background-color:#3e53a8e1;
 color:rgb(205, 226, 205);
 font-family: Georgia, Arial, Helvetica, sans-serif;
 
@@ -79,7 +79,7 @@ color:rgb(223, 245, 223);
 font-size:150%;
  }
 #content {
-background-color:#fdfdb19c;
+background-color:#fdfdce9c;
 width:70%;
 height:800px;
 
@@ -101,7 +101,7 @@ text-align: center;
 }
 .header{
 float: center;
-background:	#f54750;
+background:	#f8353f;
 width:98%;
 height:140px;
 }
